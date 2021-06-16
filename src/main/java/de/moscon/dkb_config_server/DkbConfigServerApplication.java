@@ -7,7 +7,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 /*
    Check/See configuration with:
 
-    http://localhost:8888/application/default
+    http://localhost:8060/application/default
 
  */
 
